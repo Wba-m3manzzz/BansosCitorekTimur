@@ -1,0 +1,78 @@
+datasource db {
+  provider  = "postgresql"
+  url       = env("DATABASE_URL")
+  directUrl = env("DIRECT_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model warga {
+  id               String   @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  nik              String   @unique
+  nama             String
+  pendapatan       String?
+  pendapatan_nilai Decimal? @db.Decimal(14, 2)
+  tanggungan       Int      @default(0)
+  kondisi_rumah    String
+  pekerjaan        String
+  pendidikan       String
+  jk               String?
+  hub_kel          String?
+  status_aktual    String?
+  status_prediksi  String?
+  prediction_code  Int?
+  probability      Json     @default("{}")
+  keterangan       String?
+  created_at       DateTime @default(now()) @db.Timestamptz(6)
+  updated_at       DateTime @default(now()) @db.Timestamptz(6)
+
+  @@index([nama])
+  @@index([status_prediksi])
+  @@index([status_aktual])
+  @@index([kondisi_rumah])
+  @@index([pekerjaan])
+  @@index([pendidikan])
+}
+
+model evaluasi_k {
+  id              String   @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  k               Int      @unique
+  accuracy        Decimal? @db.Decimal(8, 6)
+  precision_macro Decimal? @db.Decimal(8, 6)
+  recall_macro    Decimal? @db.Decimal(8, 6)
+  f1_macro        Decimal? @db.Decimal(8, 6)
+  created_at      DateTime @default(now()) @db.Timestamptz(6)
+
+  @@index([k])
+}
+
+model model_metadata {
+  id            String   @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  version       String   @default("1.0.0")
+  best_k        Int?
+  features      Json     @default("[]")
+  encoding      Json     @default("{}")
+  accuracy_test Decimal? @db.Decimal(8, 6)
+  f1_macro_test Decimal? @db.Decimal(8, 6)
+  artifact_path String?
+  notes         String?
+  created_at    DateTime @default(now()) @db.Timestamptz(6)
+  updated_at    DateTime @default(now()) @db.Timestamptz(6)
+}
+
+model admin_profiles {
+  id         String   @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  user_id    String   @unique @db.Uuid
+  username   String?  @unique
+  full_name  String
+  role       String   @default("admin")
+  active     Boolean  @default(true)
+  created_at DateTime @default(now()) @db.Timestamptz(6)
+  updated_at DateTime @default(now()) @db.Timestamptz(6)
+
+  @@index([user_id])
+  @@index([username])
+  @@index([role])
+}

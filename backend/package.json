@@ -1,0 +1,18 @@
+{
+  "name": "bansos-backend-prisma",
+  "version": "1.0.0",
+  "description": "Prisma and Node setup for Bansos FastAPI Backend migrations",
+  "main": "index.js",
+  "scripts": {
+    "prisma:seed": "prisma db seed"
+  },
+  "prisma": {
+    "seed": "python seed.py"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.16.1"
+  },
+  "devDependencies": {
+    "prisma": "^5.16.1"
+  }
+}

@@ -1,0 +1,13 @@
+PROMPT 1:
+Halo! Untuk mengecek status kelayakan bantuan sosial, caranya sangat mudah dan praktis, kok.
+
+Bapak/Ibu cukup mengetikkan **NIK (16 digit)** atau **Nama Lengkap** warga yang ingin dicek langsung di kolom chat ini. Setelah itu, saya akan segera membantu mencarikan datanya untuk Bapak/Ibu.
+
+Silakan dicoba ya, saya siap membantu! 😊
+
+PROMPT 2:
+Baik, mohon tunggu sebentar ya...
+
+Berdasarkan data yang saya temukan, untuk warga atas nama **SARTUKI** dengan NIK **3602191805710001**, status kelayakannya adalah: **Layak**.
+
+Semoga informasi ini membantu Bapak/Ibu. Jika ada hal lain yang ingin ditanyakan atau ada nama lain yang ingin dicek, silakan langsung beri tahu saya ya! 😊

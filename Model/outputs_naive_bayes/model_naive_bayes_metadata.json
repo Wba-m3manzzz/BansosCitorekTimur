@@ -1,0 +1,19 @@
+{
+  "algorithm": "GaussianNB",
+  "features": [
+    "Jumlah_Tanggungan",
+    "Pendapatan",
+    "Pekerjaan_Kode",
+    "Kondisi_Rumah_Kode",
+    "Pendidikan_Kode"
+  ],
+  "normalization": "Tidak digunakan (GaussianNB memakai fitur hasil encoding)",
+  "cross_validation": "StratifiedKFold 5-fold pada data training",
+  "cv_splits": 6,
+  "test_size": 0.2,
+  "random_state": 42,
+  "accuracy_test": 0.8833333333333333,
+  "precision_macro_test": 0.9054054054054055,
+  "recall_macro_test": 0.8833333333333333,
+  "f1_macro_test": 0.8817234581807942
+}

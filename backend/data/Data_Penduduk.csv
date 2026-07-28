@@ -1,0 +1,599 @@
+Nomor,NIK,Nama,JK,Hub_Kel,Pendidikan,Pekerjaan,Jumlah_Tanggungan,Pendapatan,Kondisi_Rumah,Status_Kelayakan
+1,3602191001720003,AJUM,L,Kepala Keluarga,SD,Petani/Pekebun,1,<500.000,Kurang Layak,Layak
+2,3602192608980002,ABDUL FATAH,L,Kepala Keluarga,SLTA/Sederajat,BURUH HARIAN LEPAS,1,500.000,Kurang Layak,Layak
+3,3602190503700004,SUGANA,L,Kepala Keluarga,SD,Petani/Pekebun,1,500.000,Sederhana,Layak
+4,3602190103750004,SAMIN,L,Kepala Keluarga,SD,Petani/Pekebun,1,500.000-1.000.000,Kurang Layak,Layak
+5,3602190401710001,MAMAN,L,Kepala Keluarga,SD,Wiraswasta,2,2.000.000-4.000.000,Sederhana,Tidak Layak
+6,3602191105640001,MAKMUN,L,Kepala Keluarga,SD,Petani/Pekebun,2,500.000,Kurang Layak,Layak
+7,3602195010890002,BAYI,P,Kepala Keluarga,SD,Mengurus Rumah Tangga,1,2.000.000-4.000.000,Layak,Tidak Layak
+8,3602192106770001,ARTAIM,L,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,2,500.000,Kurang Layak,Layak
+9,3602191507790005,SUHERDI,L,Kepala Keluarga,SD,Wiraswasta,4,1.000.000-2.000.000,Kurang Layak,Layak
+10,3602191506640005,MISPAN,L,Kepala Keluarga,SLTP/Sederajat,Petani/Pekebun,2,500.000-1.000.000,Kurang Layak,Layak
+11,3602190707800008,ABDUL GOPUR,L,Kepala Keluarga,SD,Wiraswasta,3,2.000.000-4.000.000,Layak,Tidak Layak
+12,3602194205860001,ICIH,P,Kepala Keluarga,SD,Mengurus Rumah Tangga,2,2.000.000-4.000.000,Layak,Tidak Layak
+13,3602190409620003,ACIP RUPIANDI,L,Kepala Keluarga,SLTA/Sederajat,Wiraswasta,3,>4.000.000,Layak,Tidak Layak
+14,3602191608770002,SUMARNO,L,Kepala Keluarga,SD,Petani/Pekebun,3,1.000.000-2.000.000,Kurang Layak,Layak
+15,3602191412860001,UDIN PURNAMA,L,Kepala Keluarga,SD,Wiraswasta,3,1.000.000-2.000.000,Sederhana,Layak
+16,3602190708920006,ADE AWALUDIN RUPIANDI,L,Kepala Keluarga,SLTA/Sederajat,Perangkat Desa,3,<500.000,Tidak Layak,Layak
+17,3602191704730001,APUD MAHPUDIN,L,Kepala Keluarga,SD,Wiraswasta,3,2.000.000-4.000.000,Kurang Layak,Tidak Layak
+18,3602192306520001,SANUSI,L,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,2,500.000-1.000.000,Sederhana,Layak
+19,3602190402960003,SUHEDI,L,Kepala Keluarga,SD,Wiraswasta,6,1.000.000-2.000.000,Kurang Layak,Layak
+20,3602196207700001,SUKARTI,P,Kepala Keluarga,Tidak Sekolah,Buruh Tani/Perkebunan,0,500.000,Kurang Layak,Layak
+21,3602192801700001,ADUL KUSMONO,L,Kepala Keluarga,D4,Karyawan Swasta,3,>4.000.000,Layak,Tidak Layak
+22,3602192607650001,AHRI,L,Kepala Keluarga,SD,Wiraswasta,2,2.000.000-4.000.000,Layak,Tidak Layak
+23,3602192506120002,KARNA,L,Kepala Keluarga,SD,PETANI/PEKEBUN,2,<500.000,Kurang Layak,Layak
+24,3602191406740001,MAHRUDIN,L,Kepala Keluarga,SLTP/Sederajat,Wiraswasta,2,1.000.000-2.000.000,Sederhana,Tidak Layak
+25,3602190308830002,AGUS HERMAWAN,L,Kepala Keluarga,SD,Wiraswasta,2,1.000.000-2.000.000,Layak,Tidak Layak
+26,3602191409720001,AHRI,L,Kepala Keluarga,SD,Wiraswasta,2,1.000.000-2.000.000,Sederhana,Layak
+27,3602192504740001,HUSNUL HIDAYAT,L,Kepala Keluarga,SLTP/Sederajat,Wiraswasta,3,1.000.000-2.000.000,Kurang Layak,Tidak Layak
+28,3602190406780003,ADE YULYANA,L,Kepala Keluarga,SLTA/Sederajat,Wiraswasta,4,1.000.000-2.000.000,Sederhana,Layak
+29,3602190403900005,KUSNADI,L,Kepala Keluarga,SD,Petani/Pekebun,2,<500.000,Sederhana,Layak
+30,3602192406710002,SURNA,L,Kepala Keluarga,SD,Wiraswasta,1,>4.000.000,Layak,Tidak Layak
+31,3602190407710003,SUARDI AHMAD ZAZULY,L,Kepala Keluarga,SD,Wiraswasta,2,2.000.000-4.000.000,Layak,Tidak Layak
+32,3602191503720002,ANWAR SASMITA,L,Kepala Keluarga,SD,Wiraswasta,3,>4.000.000,Layak,Tidak Layak
+33,3602191005680002,JAYA RUSWANDI,L,Kepala Keluarga,SLTA/Sederajat,Pegawai Negeri Sipil,2,1.000.000-2.000.000,Sederhana,Tidak Layak
+34,3602190404620002,SANUDI,L,Kepala Keluarga,D4,Pegawai Negeri Sipil,2,1.000.000-2.000.000,Sederhana,Tidak Layak
+35,3602190811670002,SUHERDIN,L,Kepala Keluarga,SLTA/Sederajat,Wiraswasta,4,1.000.000-2.000.000,Tidak Layak,Layak
+36,3602191208860002,SUKI,L,Kepala Keluarga,SD,Wiraswasta,3,2.000.000-4.000.000,Layak,Tidak Layak
+37,3602190505790002,CECE APANDI,L,Kepala Keluarga,SLTA/Sederajat,Wiraswasta,6,>4.000.000,Layak,Tidak Layak
+38,3602191807900004,AHMADIN,L,Kepala Keluarga,SLTA/Sederajat,Wiraswasta,3,2.000.000-4.000.000,Sederhana,Tidak Layak
+39,3602191603620001,SARTU,L,Kepala Keluarga,SD,Petani/Pekebun,3,1.000.000-2.000.000,Sederhana,Layak
+40,3602192501790002,SADILI,L,Kepala Keluarga,SD,Petani/Pekebun,3,<500.000,Kurang Layak,Layak
+41,3602191401890003,ARNAN,L,Kepala Keluarga,SD,Petani/Pekebun,2,500.000,Tidak Layak,Layak
+42,3602191904890002,KOMARUDIN ,L,Kepala Keluarga,D4,GURU,2,2.000.000-4.000.000,Layak,Tidak Layak
+43,3602192104930001,SOPYAN SIDIK,L,Kepala Keluarga,SLTA/Sederajat,Petani/Pekebun,2,500.000-1.000.000,Kurang Layak,Layak
+44,3602191709860001,UJEN MUJAENI,L,Kepala Keluarga,SLTA/Sederajat,Petani/Pekebun,2,500.000,Kurang Layak,Layak
+45,3602191908850002,YANA RUSYANA,L,Kepala Keluarga,SLTA/Sederajat,Wiraswasta,2,>4.000.000,Sederhana,Tidak Layak
+46,3602191301700001,NAHRUDIN,L,Kepala Keluarga,SD,Wiraswasta,3,2.000.000-4.000.000,Kurang Layak,Tidak Layak
+47,3602191201820002,SUKATMA,L,Kepala Keluarga,SD,Wiraswasta,3,1.000.000-2.000.000,Sederhana,Layak
+48,3602191302900002,SUMANTRI,L,Kepala Keluarga,SLTP/Sederajat,Wiraswasta,3,1.000.000-2.000.000,Kurang Layak,Tidak Layak
+49,3602192711860001,IYAD JUMIYADI,L,Kepala Keluarga,D2,Wiraswasta,4,1.000.000-2.000.000,Sederhana,Layak
+50,3602191505890001,AWAN SUTIAWAN,L,Kepala Keluarga,D4,Wiraswasta,1,>4.000.000,Layak,Tidak Layak
+51,3602194507870005,HALIMAH,P,Kepala Keluarga,SLTP/Sederajat,Mengurus Rumah Tangga,2,2.000.000-4.000.000,Layak,Tidak Layak
+52,3602191110850003,JAIH,L,Kepala Keluarga,SD,Petani/Pekebun,3,500.000,Kurang Layak,Layak
+53,3602192301720001,SUDIN,L,Kepala Keluarga,SD,Petani/Pekebun,2,1.000.000-2.000.000,Layak,Layak
+54,3602195407650003,KARWATI,P,Kepala Keluarga,Tidak Sekolah,Mengurus Rumah Tangga,0,2.000.000-4.000.000,Layak,Tidak Layak
+55,3602192005820004,SANURA,L,Kepala Keluarga,SLTP/Sederajat,Wiraswasta,3,1.000.000-2.000.000,Kurang Layak,Tidak Layak
+56,3602190607700007,UDING USWANDI,L,Kepala Keluarga,SLTA/Sederajat,Wiraswasta,1,2.000.000-4.000.000,Sederhana,Tidak Layak
+57,3602190502610002,ASEP,L,Kepala Keluarga,SD,Petani/Pekebun,3,500.000-1.000.000,Kurang Layak,Layak
+58,3602191605810003,BUSTOMI,L,Kepala Keluarga,SLTP/Sederajat,Wiraswasta,3,1.000.000-2.000.000,Tidak Layak,Layak
+59,3602192105890002,FERY PRIANSAH,L,Kepala Keluarga,SLTA/Sederajat,Wiraswasta,3,>4.000.000,Layak,Tidak Layak
+60,3602191603810002,HANA,L,Kepala Keluarga,SD,Petani/Pekebun,3,1.000.000-2.000.000,Kurang Layak,Layak
+61,3602190205810004,AAN APANDI,L,Kepala Keluarga,SD,Wiraswasta,4,2.000.000-4.000.000,Kurang Layak,Tidak Layak
+62,3602191604800002,ANARUDIN,L,Kepala Keluarga,SD,Petani/Pekebun,3,500.000-1.000.000,Kurang Layak,Layak
+63,3602191607930003,MULYANA,L,Kepala Keluarga,SLTP/Sederajat,Perdagangan,2,500.000,Tidak Layak,Layak
+64,3602190202800005,BUHORI,L,Kepala Keluarga,SLTP/Sederajat,Wiraswasta,3,2.000.000-4.000.000,Sederhana,Tidak Layak
+65,3602192204870001,RANO,L,Kepala Keluarga,SD,Wiraswasta,3,>4.000.000,Layak,Tidak Layak
+66,3602191511760001,SOPANDI,L,Kepala Keluarga,SD,Wiraswasta,4,1.000.000-2.000.000,Sederhana,Layak
+67,3602191205980003,MUHAMAD NOVAL,L,Kepala Keluarga,SLTP/Sederajat,Wiraswasta,2,2.000.000-4.000.000,Kurang Layak,Tidak Layak
+68,3602191707820003,ALIEF FIANSYAH,L,Kepala Keluarga,STRATA 1 / D IV,BURUH HARIAN LEPAS,2,<500.000,Sederhana,Layak
+69,3602190906580004,WAWAN KARYAWAN,L,Kepala Keluarga,SLTA/Sederajat,Petani/Pekebun,2,500.000,Kurang Layak,Layak
+70,3602194410600005,ANAH RUMANAH,P,Kepala Keluarga,SD,Petani/Pekebun,0,1.000.000-2.000.000,Layak,Tidak Layak
+71,3602191009750003,YAHYA SUHENDRA,L,Kepala Keluarga,SLTA/Sederajat,Wiraswasta,2,1.000.000-2.000.000,Layak,Tidak Layak
+72,3602190608810006,CATUR PRASETIO,L,Kepala Keluarga,D4,Karyawan Swasta,3,>4.000.000,Layak,Tidak Layak
+73,3602191306870002,JULI,L,Kepala Keluarga,SD,Karyawan Swasta,2,1.000.000-2.000.000,Layak,Tidak Layak
+74,3602190404800004,RUSLAN NAWAWI,L,Kepala Keluarga,SLTA/Sederajat,Wiraswasta,3,2.000.000-4.000.000,Sederhana,Tidak Layak
+75,3602190201670001,RASMEDI,L,Kepala Keluarga,SD,Petani/Pekebun,3,<500.000,Tidak Layak,Layak
+76,3602192503590001,ISAK,L,Kepala Keluarga,SD,Petani/Pekebun,1,500.000,Kurang Layak,Layak
+77,3602192106670003,NURDIN,L,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,2,500.000-1.000.000,Kurang Layak,Layak
+78,3602192407590001,JARIM,L,Kepala Keluarga,SD,Petani/Pekebun,0,1.000.000-2.000.000,Kurang Layak,Tidak Layak
+79,3602194701640002,JUANAH,P,Kepala Keluarga,Tidak Sekolah,Mengurus Rumah Tangga,0,>4.000.000,Sederhana,Tidak Layak
+80,3602190903690003,YADI,L,Kepala Keluarga,SD,Petani/Pekebun,2,<500.000,Sederhana,Layak
+81,3602192406570004,RAIS,L,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,3,500.000,Tidak Layak,Layak
+82,3602192103700001,ARMAN,L,Kepala Keluarga,SD,Petani/Pekebun,1,500.000,Sederhana,Layak
+83,3602191102730002,JARMAT,L,Kepala Keluarga,SD,Petani/Pekebun,2,<500.000,Tidak Layak,Layak
+84,3602191603790011,HERMAN,L,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,2,500.000,Kurang Layak,Layak
+85,3602196406650002,MASIH,P,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,0,1.000.000-2.000.000,Layak,Tidak Layak
+86,3602192406740002,MAJID,L,Kepala Keluarga,SD,Petani/Pekebun,3,1.000.000-2.000.000,Kurang Layak,Layak
+87,3602194106840002,NURYATI,P,Kepala Keluarga,Tidak Sekolah,Mengurus Rumah Tangga,0,>4.000.000,Sederhana,Tidak Layak
+88,3602190501810002,AHMAD,L,Kepala Keluarga,SD,Buruh Harian Lepas,3,<500.000,Kurang Layak,Layak
+89,3602191102670002,BASRI,L,Kepala Keluarga,SD,Petani/Pekebun,2,500.000,Kurang Layak,Layak
+90,3602191012490001,MUHAMAD MARJUK,L,Kepala Keluarga,SLTA/Sederajat,Pensiunan,1,<500.000,Sederhana,Layak
+91,3602192008740002,ASMAT,L,Kepala Keluarga,SD,Petani/Pekebun,1,<500.000,Sederhana,Layak
+92,3602192407560001,SAID,L,Kepala Keluarga,SD,Petani/Pekebun,1,500.000-1.000.000,Sederhana,Layak
+93,3602192503730002,SAPRUDIN,L,Kepala Keluarga,SD,Petani/Pekebun,2,<500.000,Kurang Layak,Layak
+94,3602191205550005,MARKUS,L,Kepala Keluarga,SLTA/Sederajat,Pensiunan,1,500.000,Kurang Layak,Tidak Layak
+95,3602191607780002,YADI SUKMAYADI,L,Kepala Keluarga,SLTP/Sederajat,Wiraswasta,3,>4.000.000,Sederhana,Tidak Layak
+96,3602195808970002,NURSANAH ,P,Kepala Keluarga,Tidak Sekolah,Mengurus Rumah Tangga,0,<500.000,Sederhana,Tidak Layak
+97,3602190510600003,ASRA,L,Kepala Keluarga,SD,Wiraswasta,1,>4.000.000,Sederhana,Tidak Layak
+98,3602192406490002,SAMINAN,L,Kepala Keluarga,SD,Petani/Pekebun,1,500.000-1.000.000,Kurang Layak,Layak
+99,3602192402780001,DADIH,L,Kepala Keluarga,SD,Wiraswasta,3,1.000.000-2.000.000,Tidak Layak,Layak
+100,3602191703560003,PURA,L,Kepala Keluarga,SD,Petani/Pekebun,1,500.000-1.000.000,Kurang Layak,Layak
+101,3602190506710007,AZHAR,L,Kepala Keluarga,SLTA/Sederajat,Petani/Pekebun,2,1.000.000-2.000.000,Layak,Tidak Layak
+102,3602191406660002,SUGANI,L,Kepala Keluarga,SD,Petani/Pekebun,1,1.000.000-2.000.000,Sederhana,Layak
+103,3602191506920004,MUKHLIS CAHYADI,L,Kepala Keluarga,SLTA/Sederajat,Petani/Pekebun,1,500.000-1.000.000,Kurang Layak,Layak
+104,3602192001490004,KEMONG,L,Kepala Keluarga,SD,Petani/Pekebun,0,500.000,Kurang Layak,Layak
+105,3602195207590004,SAONAH,P,Kepala Keluarga,Tidak Sekolah,Mengurus Rumah Tangga,0,<500.000,Sederhana,Tidak Layak
+106,3602190906730001,SURTA WIJAYA,L,Kepala Keluarga,SD,Wiraswasta,3,2.000.000-4.000.000,Layak,Tidak Layak
+107,3602191001720004,JAMID,L,Kepala Keluarga,SD,Petani/Pekebun,1,1.000.000-2.000.000,Layak,Layak
+108,3602192209630008,JOHANUDIN,L,Kepala Keluarga,Tamat SLTA/Sederajat,Belum/Tidak Bekerja,1,<500.000,Tidak Layak,Layak
+109,3602191308900004,JAHADI,L,Kepala Keluarga,SD,Petani/Pekebun,0,<500.000,Kurang Layak,Layak
+110,3602195903600001,JAMANAH,P,Kepala Keluarga,SD,Mengurus Rumah Tangga,1,2.000.000-4.000.000,Sederhana,Tidak Layak
+111,3602190508560001,SANTURA,L,Kepala Keluarga,SD,Wiraswasta,0,>4.000.000,Layak,Tidak Layak
+112,3602193012900001,AJAT,L,Kepala Keluarga,SD,Wiraswasta,2,>4.000.000,Sederhana,Tidak Layak
+113,3602192403890002,MARLIN,L,Kepala Keluarga,SLTP/Sederajat,Wiraswasta,3,>4.000.000,Layak,Tidak Layak
+114,3602191806680008,HOLIL,L,Kepala Keluarga,SD,Wiraswasta,3,>4.000.000,Layak,Tidak Layak
+115,3602192401820001,SUPARDI,L,Kepala Keluarga,SLTP/Sederajat,Wiraswasta,3,2.000.000-4.000.000,Kurang Layak,Tidak Layak
+116,3602191006930004,ADANG MALIK,L,Kepala Keluarga,D2,Wiraswasta,2,2.000.000-4.000.000,Kurang Layak,Tidak Layak
+117,3602192406890001,MAMAN,L,Kepala Keluarga,SLTA/Sederajat,Wiraswasta,2,>4.000.000,Layak,Tidak Layak
+118,3602191401940004,SUMARNO,L,Kepala Keluarga,SD,Petani/Pekebun,3,500.000-1.000.000,Kurang Layak,Layak
+119,3602190106810003,SURTA,L,Kepala Keluarga,SD,Petani/Pekebun,3,1.000.000-2.000.000,Kurang Layak,Layak
+120,3602190404840003,DAYAT,L,Kepala Keluarga,SD,Petani/Pekebun,0,1.000.000-2.000.000,Layak,Tidak Layak
+121,3602190712700009,HEDI MAMI,L,Kepala Keluarga,Tamat SLTP/Sederajat,Petani/Pekebun,0,500.000-1.000.000,Sederhana,Layak
+122,3602194602030005,SITI MUTIAH,P,Kepala Keluarga,Tamat SLTP/Sederajat,Mengurus Rumah Tangga,1,>4.000.000,Layak,Tidak Layak
+123,3602190403770003,ABDUROHMAN,L,Kepala Keluarga,SD,Wiraswasta,2,1.000.000-2.000.000,Sederhana,Layak
+124,3602190807920001,SURYADI,L,Kepala Keluarga,SD,Wiraswasta,4,2.000.000-4.000.000,Sederhana,Tidak Layak
+125,3602191208860001,LIYA,L,Kepala Keluarga,SLTP/Sederajat,Petani/Pekebun,2,500.000,Sederhana,Layak
+126,3602190401020002,JAMALUDIN ,L,Kepala Keluarga,SLTA/Sederajat,Karyawan Swasta,0,1.000.000-2.000.000,Sederhana,Tidak Layak
+127,3602194608820001,"LELI MARSELINA, S.Pd",P,Kepala Keluarga,D2,Mengurus Rumah Tangga,2,2.000.000-4.000.000,Layak,Tidak Layak
+128,3602191607800004,SARMUDA,L,Kepala Keluarga,SD,Wiraswasta,4,>4.000.000,Sederhana,Tidak Layak
+129,3602191011870006,BUDI,L,Kepala Keluarga,SLTA/Sederajat,Perangkat Desa,2,500.000-1.000.000,Tidak Layak,Layak
+130,3602192401680002,ROSID,L,Kepala Keluarga,SD,Petani/Pekebun,2,500.000-1.000.000,Sederhana,Layak
+131,3602191603790003,JUMAEDI,L,Kepala Keluarga,SD,Wiraswasta,4,>4.000.000,Sederhana,Tidak Layak
+132,3602191503940005,JUMRONI,L,Kepala Keluarga,SLTP/Sederajat,Belum/Tidak Bekerja,2,2.000.000-4.000.000,Layak,Tidak Layak
+133,3602192504520002,A.SYAHRONI,L,Kepala Keluarga,SD,Petani/Pekebun,0,500.000-1.000.000,Kurang Layak,Layak
+134,3602191403730002,AHMAD ATAJI MUKHLIS,L,Kepala Keluarga,SLTA/Sederajat,Buruh Harian Lepas,2,500.000,Tidak Layak,Layak
+135,3602194201770001,WIDIASTARI,P,Kepala Keluarga,SLTA/Sederajat,Pegawai Negeri Sipil,1,2.000.000-4.000.000,Sederhana,Tidak Layak
+136,3602191607900003,ASWAN ,L,Kepala Keluarga,SD,Petani/Pekebun,1,500.000,Sederhana,Layak
+137,3602190908510004,NURYAMAN ,L,Kepala Keluarga,SD,Petani/Pekebun,4,500.000-1.000.000,Sederhana,Layak
+138,3602192301800005,IKBAL MUHARAM,L,Kepala Keluarga,SLTA/Sederajat,Wiraswasta,2,1.000.000-2.000.000,Sederhana,Tidak Layak
+139,3602190603950006,MUSLIM,L,Kepala Keluarga,Tamat SLTP/Sederajat,Buruh Harian Lepas,0,500.000,Kurang Layak,Layak
+140,3602190905840006,SUBARNA JAYA KUSUMA,L,Kepala Keluarga,SLTP/Sederajat,Wiraswasta,2,>4.000.000,Layak,Tidak Layak
+141,3602192410640007,SAEPUL,L,Kepala Keluarga,SLTP/Sederajat,Wiraswasta,2,>4.000.000,Layak,Tidak Layak
+142,3602192604690001,JUMARUDIN,L,Kepala Keluarga,SD,Petani/Pekebun,2,<500.000,Tidak Layak,Layak
+143,3602190503470001,SANG SANG,L,Kepala Keluarga,SLTP/Sederajat,Petani/Pekebun,0,500.000,Kurang Layak,Tidak Layak
+144,3602191607500002,BANI,L,Kepala Keluarga,SLTP/Sederajat,Petani/Pekebun,1,500.000-1.000.000,Kurang Layak,Layak
+145,3602191506700002,SARHATA,L,Kepala Keluarga,SD,Petani/Pekebun,1,<500.000,Sederhana,Layak
+146,3602191107600001,SURJAYA,L,Kepala Keluarga,SD,Petani/Pekebun,1,500.000,Kurang Layak,Layak
+147,3602191702860002,SUHERMAN,L,Kepala Keluarga,SD,Petani/Pekebun,3,500.000,Kurang Layak,Layak
+148,3602191002650002,DULSATIP,L,Kepala Keluarga,SD,Petani/Pekebun,1,500.000,Kurang Layak,Layak
+149,3602191305610001,MARSUDIN,L,Kepala Keluarga,SD,Petani/Pekebun,2,500.000,Kurang Layak,Layak
+150,3602190505730003,SUPRIADI S.,L,Kepala Keluarga,SLTP/Sederajat,Wiraswasta,2,2.000.000-4.000.000,Sederhana,Tidak Layak
+151,3602190305590002,SURTA,L,Kepala Keluarga,SD,Petani/Pekebun,2,<500.000,Sederhana,Layak
+152,3602191107750002,KAMSARI,L,Kepala Keluarga,SD,Wiraswasta,3,>4.000.000,Layak,Tidak Layak
+153,3602195807760002,SARTI,P,Kepala Keluarga,SD,Belum/Tidak Bekerja,1,1.000.000-2.000.000,Sederhana,Layak
+154,3602191002700003,JAKRIA,L,Kepala Keluarga,SD,Petani/Pekebun,2,1.000.000-2.000.000,Kurang Layak,Layak
+155,3602191102450001,USMAN,L,Kepala Keluarga,SD,Petani/Pekebun,2,<500.000,Sederhana,Layak
+156,3602190306790006,RUSDI,L,Kepala Keluarga,SD,Wiraswasta,3,2.000.000-4.000.000,Sederhana,Tidak Layak
+157,3602191508710001,SURYANI,L,Kepala Keluarga,SD,Wiraswasta,2,>4.000.000,Layak,Tidak Layak
+158,3602195006541001,MURNATI,P,Kepala Keluarga,Tidak Sekolah,Mengurus Rumah Tangga,0,<500.000,Layak,Tidak Layak
+159,3602195505690002,MARIAH,P,Kepala Keluarga,SD,Mengurus Rumah Tangga,0,>4.000.000,Layak,Tidak Layak
+160,3602196601690002,NARSIH,P,Kepala Keluarga,SD,Mengurus Rumah Tangga,0,>4.000.000,Layak,Tidak Layak
+161,3602191203640003,DULHAMID,L,Kepala Keluarga,SD,Petani/Pekebun,3,500.000,Tidak Layak,Layak
+162,3602191002620007,AHMAYUDIN,L,Kepala Keluarga,SLTP/Sederajat,Wiraswasta,2,>4.000.000,Sederhana,Tidak Layak
+163,3602191507800004,ASDI,L,Kepala Keluarga,SD,Wiraswasta,3,>4.000.000,Layak,Tidak Layak
+164,3602190112670001,SURNA,L,Kepala Keluarga,SD,Petani/Pekebun,1,1.000.000-2.000.000,Layak,Layak
+165,3602191102450002,ADYATI,L,Kepala Keluarga,SD,Petani/Pekebun,1,500.000,Sederhana,Layak
+166,3602192002640008,ARMID,L,Kepala Keluarga,SD,Petani/Pekebun,3,<500.000,Tidak Layak,Layak
+167,3602191507810005,AMONG SUPARMAN,L,Kepala Keluarga,SLTP/Sederajat,Wiraswasta,3,2.000.000-4.000.000,Sederhana,Tidak Layak
+168,3602191603820006,MARSIM,L,Kepala Keluarga,SD,Wiraswasta,2,2.000.000-4.000.000,Sederhana,Tidak Layak
+169,3602192104940001,RIDWAN FIRDAUS,L,Kepala Keluarga,SD,Petani/Pekebun,2,500.000-1.000.000,Sederhana,Layak
+170,3602190306940003,ALYUDIN RAHMATULLAH,L,Kepala Keluarga,SLTA/Sederajat,Karyawan Swasta,3,1.000.000-2.000.000,Sederhana,Tidak Layak
+171,3602196811680001,SURNAH,P,Kepala Keluarga,SD,Petani/Pekebun,0,<500.000,Kurang Layak,Layak
+172,3602191904610009,OMAN,L,Kepala Keluarga,SD,Petani/Pekebun,3,500.000,Tidak Layak,Layak
+173,3602190105550001,ROBY KOMARA,L,Kepala Keluarga,D4,Karyawan Swasta,3,2.000.000-4.000.000,Sederhana,Tidak Layak
+174,3602191709700004,SUKARNA,L,Kepala Keluarga,SLTA/Sederajat,Wiraswasta,2,2.000.000-4.000.000,Layak,Tidak Layak
+175,3602194506500002,SAWATI,P,Kepala Keluarga,SD,Belum/Tidak Bekerja,0,2.000.000-4.000.000,Layak,Tidak Layak
+176,3602191203930006,UDIN NAHRUDIN,L,Kepala Keluarga,SLTA/Sederajat,Wiraswasta,0,>4.000.000,Layak,Tidak Layak
+177,3602192504770001,WAWAN MUHAMAD NUR,L,Kepala Keluarga,D4,Pegawai Negeri Sipil,4,2.000.000-4.000.000,Kurang Layak,Tidak Layak
+178,3602192604700001,BAKRI,L,Kepala Keluarga,SD,Petani/Pekebun,2,500.000-1.000.000,Kurang Layak,Layak
+179,3602190707790002,AHYA APANDI,L,Kepala Keluarga,SD,Wiraswasta,5,1.000.000-2.000.000,Sederhana,Layak
+180,3602192401600001,JARHADI,L,Kepala Keluarga,SD,Petani/Pekebun,1,500.000-1.000.000,Sederhana,Layak
+181,3602192505680003,ACE ATMAWIJAYA,L,Kepala Keluarga,SD,Wiraswasta,1,2.000.000-4.000.000,Kurang Layak,Tidak Layak
+182,3602191201730002,APANDI ARDIANSYAH,L,Kepala Keluarga,SD,Wiraswasta,2,1.000.000-2.000.000,Sederhana,Layak
+183,3602192602720003,AJA,L,Kepala Keluarga,SD,Petani/Pekebun,2,500.000,Kurang Layak,Layak
+184,3602192106650001,SANUKI,L,Kepala Keluarga,SD,Petani/Pekebun,0,500.000,Sederhana,Layak
+185,3602190604010002,MUHAMMAD YASIR,L,Kepala Keluarga,SLTA/Sederajat,Buruh Harian Lepas,1,<500.000,Sederhana,Layak
+186,3602191202600002,SARNAN,L,Kepala Keluarga,SD,Petani/Pekebun,1,<500.000,Sederhana,Layak
+187,3602191212970007,MUHAMAD NURHOLIS,L,Kepala Keluarga,Tamat SLTP/Sederajat,Petani/Pekebun,2,500.000,Sederhana,Layak
+188,3602191906830002,UHEN,L,Kepala Keluarga,SD,Wiraswasta,3,1.000.000-2.000.000,Kurang Layak,Layak
+189,3602191703650002,RAPIUDIN,L,Kepala Keluarga,SD,Petani/Pekebun,2,<500.000,Kurang Layak,Layak
+190,3602191708450001,OYONG,L,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,1,<500.000,Sederhana,Layak
+191,3602191102700005,HATO,L,Kepala Keluarga,SD,Petani/Pekebun,3,500.000-1.000.000,Kurang Layak,Layak
+192,3602191605720001,HOTIB,L,Kepala Keluarga,SD,Petani/Pekebun,2,<500.000,Sederhana,Layak
+193,3602192506870004,AGUS KUSNADI,L,Kepala Keluarga,SD,BURUH HARIAN LEPAS,1,1.000.000-2.000.000,Sederhana,Layak
+194,3602190605670003,JUNED,L,Kepala Keluarga,SD,Petani/Pekebun,0,500.000-1.000.000,Kurang Layak,Layak
+195,3602191701860001,SANU,L,Kepala Keluarga,SD,Wiraswasta,2,1.000.000-2.000.000,Sederhana,Layak
+196,3602191603610002,JUHANA,L,Kepala Keluarga,SD,Petani/Pekebun,2,500.000,Sederhana,Layak
+197,3602191403670003,SAIMAD,L,Kepala Keluarga,SD,Petani/Pekebun,3,500.000,Tidak Layak,Layak
+198,3602192708790005,FAHRUDIN HIDAYAH,L,Kepala Keluarga,SLTA/Sederajat,BURUH HARIAN LEPAS,2,1.000.000-2.000.000,Kurang Layak,Layak
+199,3602191806760001,KARYADI,L,Kepala Keluarga,SD,Petani/Pekebun,3,1.000.000-2.000.000,Tidak Layak,Layak
+200,3602191603650003,NONO,L,Kepala Keluarga,SD,Petani/Pekebun,3,500.000,Tidak Layak,Layak
+201,3602191603430001,RUSA,L,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,1,<500.000,Tidak Layak,Layak
+202,3602192007830005,ROHADI RAI,L,Kepala Keluarga,SD,Wiraswasta,4,>4.000.000,Sederhana,Tidak Layak
+203,3602192603790002,AMAT SUTIAWAN SAPUTRA,L,Kepala Keluarga,SD,Wiraswasta,3,1.000.000-2.000.000,Kurang Layak,Layak
+204,3602192403560001,PULUNG,L,Kepala Keluarga,SD,Petani/Pekebun,2,500.000,Sederhana,Layak
+205,3602192006830001,AHYADI,L,Kepala Keluarga,SD,Petani/Pekebun,3,1.000.000-2.000.000,Sederhana,Layak
+206,3602192401920001,MUMUH MUHTARUDIN,L,Kepala Keluarga,SLTP/Sederajat,Pedagang,2,500.000-1.000.000,Kurang Layak,Tidak Layak
+207,3602190506850007,SUPRADI,L,Kepala Keluarga,SD,Wiraswasta,3,2.000.000-4.000.000,Sederhana,Tidak Layak
+208,3602191302740006,MADTOMI,L,Kepala Keluarga,SD,Petani/Pekebun,0,500.000-1.000.000,Sederhana,Layak
+209,3602195701370001,CINOT,P,Kepala Keluarga,SD,Mengurus Rumah Tangga,0,2.000.000-4.000.000,Layak,Tidak Layak
+210,3602197001740001,JURIAH,P,Kepala Keluarga,Tidak Sekolah,Mengurus Rumah Tangga,1,>4.000.000,Sederhana,Tidak Layak
+211,3602191208730004,SURJA,L,Kepala Keluarga,SD,Petani/Pekebun,3,<500.000,Tidak Layak,Layak
+212,3602191508600004,AJID,L,Kepala Keluarga,SD,Petani/Pekebun,3,1.000.000-2.000.000,Kurang Layak,Layak
+213,3602191206790002,ARYANI,L,Kepala Keluarga,SD,Petani/Pekebun,3,1.000.000-2.000.000,Kurang Layak,Layak
+214,3602190311730002,ATMA WIJAYA,L,Kepala Keluarga,SD,Wiraswasta,2,>4.000.000,Layak,Tidak Layak
+215,3602190511500001,DULHADI,L,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,1,1.000.000-2.000.000,Sederhana,Layak
+216,3602191703780003,ANIK,L,Kepala Keluarga,SD,Petani/Pekebun,3,1.000.000-2.000.000,Sederhana,Layak
+217,3602191308530001,JASMAN,L,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,3,1.000.000-2.000.000,Kurang Layak,Layak
+218,3602194609590001,MAENAH,P,Kepala Keluarga,Tidak Sekolah,Mengurus Rumah Tangga,0,500.000-1.000.000,Sederhana,Tidak Layak
+219,3602192707570001,SAINAN,L,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,2,<500.000,Kurang Layak,Layak
+220,3602191511780002,IBAD,L,Kepala Keluarga,SD,Petani/Pekebun,3,500.000-1.000.000,Tidak Layak,Layak
+221,3602191510680004,SURIYA,L,Kepala Keluarga,SD,Petani/Pekebun,2,<500.000,Sederhana,Layak
+222,3602190107790007,MA'MUN,L,Kepala Keluarga,SD,Petani/Pekebun,2,500.000-1.000.000,Kurang Layak,Layak
+223,3602191502750002,JAED,L,Kepala Keluarga,SD,Perdagangan,2,1.000.000-2.000.000,Sederhana,Layak
+224,3602192111730007,GUGUN GUNAWAN ,L,Kepala Keluarga,SLTA/Sederajat,Petani/Pekebun,1,1.000.000-2.000.000,Sederhana,Layak
+225,3602196701550001,JAMSI,P,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,0,1.000.000-2.000.000,Kurang Layak,Tidak Layak
+226,3602194901700002,EEM PONIYAWATI,P,Kepala Keluarga,SD,Mengurus Rumah Tangga,1,>4.000.000,Layak,Tidak Layak
+227,3602190306580008,SUPENA,L,Kepala Keluarga,Tidak Sekolah,Buruh Tani,1,<500.000,Sederhana,Layak
+228,3602191502610003,SUHERMAN,L,Kepala Keluarga,SD,Petani/Pekebun,2,500.000,Sederhana,Layak
+229,3602190506590001,KARSA,L,Kepala Keluarga,SD,Petani/Pekebun,1,<500.000,Tidak Layak,Layak
+230,3602191603950002,RUSLAN,L,Kepala Keluarga,SLTA/Sederajat,Belum/Tidak Bekerja,2,2.000.000-4.000.000,Kurang Layak,Tidak Layak
+231,3602190407500004,SARPAI,L,Kepala Keluarga,SD,Petani/Pekebun,1,<500.000,Sederhana,Layak
+232,3602192106790002,AHMAD,L,Kepala Keluarga,SD,Petani/Pekebun,3,<500.000,Tidak Layak,Layak
+233,3602191807830001,SARNATA,L,Kepala Keluarga,SD,Wiraswasta,3,1.000.000-2.000.000,Sederhana,Layak
+234,3602191506600001,NAJA,L,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,2,<500.000,Sederhana,Layak
+235,3602191205810002,JAYA,L,Kepala Keluarga,SD,Petani/Pekebun,3,1.000.000-2.000.000,Sederhana,Layak
+236,3602191005700002,NASIR,L,Kepala Keluarga,SD,Wiraswasta,3,1.000.000-2.000.000,Kurang Layak,Layak
+237,3602191506750002,CUCUN,L,Kepala Keluarga,SD,Petani/Pekebun,3,500.000,Tidak Layak,Layak
+238,3602191805710001,SARTUKI,L,Kepala Keluarga,SD,Petani/Pekebun,2,500.000,Kurang Layak,Layak
+239,3602193009940003,IDHAM KHOLID,L,Kepala Keluarga,D4,Perawat,2,2.000.000-4.000.000,Layak,Tidak Layak
+240,3602195708780003,SAPTI,P,Kepala Keluarga,SD,Petani/Pekebun,1,<500.000,Kurang Layak,Layak
+241,3602195201800004,SUMYATI,P,Kepala Keluarga,SLTP/Sederajat,Mengurus Rumah Tangga,1,1.000.000-2.000.000,Layak,Tidak Layak
+242,3602194110910003,ELA WATI,P,Kepala Keluarga,SLTP/Sederajat,Mengurus Rumah Tangga,1,<500.000,Sederhana,Tidak Layak
+243,3602192610730003,UNANG SURYANA,L,Kepala Keluarga,SD,Petani/Pekebun,1,1.000.000-2.000.000,Kurang Layak,Layak
+244,3602190410610009,ZIKRI RAMDAN,L,Kepala Keluarga,SLTA/Sederajat,Petani/Pekebun,2,500.000,Sederhana,Layak
+245,3602195406380001,UMSINAH,P,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,0,1.000.000-2.000.000,Sederhana,Layak
+246,3602191602710001,SUHANDRI,L,Kepala Keluarga,SLTP/Sederajat,Wiraswasta,3,1.000.000-2.000.000,Tidak Layak,Layak
+247,3602191505610003,SAHABI,L,Kepala Keluarga,SD,Petani/Pekebun,1,500.000-1.000.000,Kurang Layak,Layak
+248,3602191607880002,MULYANI,L,Kepala Keluarga,SD,Wiraswasta,2,1.000.000-2.000.000,Kurang Layak,Tidak Layak
+249,3602191905850001,ALI FIRDAUS,L,Kepala Keluarga,SD,Petani/Pekebun,3,500.000-1.000.000,Kurang Layak,Layak
+250,3602191305790002,ANAN,L,Kepala Keluarga,SD,Petani/Pekebun,3,500.000,Tidak Layak,Layak
+251,3602192308760002,RIZKI TAUFIQUROHMAN,L,Kepala Keluarga,SLTA/Sederajat,Buruh Harian Lepas,2,500.000-1.000.000,Sederhana,Layak
+252,3602194403640004,SARTINAH,P,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,0,1.000.000-2.000.000,Layak,Tidak Layak
+253,3602192206610003,TEJA SAPUTRA,L,Kepala Keluarga,SD,Wiraswasta,2,2.000.000-4.000.000,Sederhana,Tidak Layak
+254,3602194503420002,JARNAH,P,Kepala Keluarga,Tidak Sekolah,Mengurus Rumah Tangga,0,2.000.000-4.000.000,Sederhana,Tidak Layak
+255,3602191807410001,JUHARI,L,Kepala Keluarga,SD,Petani/Pekebun,0,500.000,Sederhana,Layak
+256,3602192008780004,KARNA,L,Kepala Keluarga,Tidak Sekolah,Buruh Harian Lepas,3,1.000.000-2.000.000,Kurang Layak,Layak
+257,3602195702590001,RUMSI,P,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,0,1.000.000-2.000.000,Sederhana,Layak
+258,3602192407790001,SUMEDI,L,Kepala Keluarga,SD,Petani/Pekebun,2,500.000-1.000.000,Kurang Layak,Layak
+259,3602195005620005,MAWI,P,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,0,500.000-1.000.000,Tidak Layak,Layak
+260,3602191005680003,UDIS,L,Kepala Keluarga,SD,Wiraswasta,2,>4.000.000,Layak,Tidak Layak
+261,3602190505830001,JUANDI,L,Kepala Keluarga,SD,Wiraswasta,2,>4.000.000,Layak,Tidak Layak
+262,3602194711650002,SUHENI,P,Kepala Keluarga,SD,Petani/Pekebun,0,500.000,Kurang Layak,Layak
+263,3602192507810004,UBAD SUBADRI,L,Kepala Keluarga,SD,Wiraswasta,3,1.000.000-2.000.000,Sederhana,Layak
+264,3602191408800002,SUPRIADI,L,Kepala Keluarga,SLTP/Sederajat,Wiraswasta,2,1.000.000-2.000.000,Sederhana,Tidak Layak
+265,3602191105710001,WIDANA,L,Kepala Keluarga,SD,Wiraswasta,2,>4.000.000,Layak,Tidak Layak
+266,3602192102490002,WIWI,L,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,0,500.000,Kurang Layak,Layak
+267,3602192104800001,ELI SUHERMAT,L,Kepala Keluarga,SD,Wiraswasta,4,1.000.000-2.000.000,Sederhana,Layak
+268,3602190206000006,SUDIN,L,Kepala Keluarga,SD,Petani/Pekebun,1,<500.000,Tidak Layak,Layak
+269,3602192401520001,JAIRAN,L,Kepala Keluarga,SD,Wiraswasta,1,2.000.000-4.000.000,Kurang Layak,Tidak Layak
+270,3602191603690001,SAKIRIN,L,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,2,500.000-1.000.000,Sederhana,Layak
+271,3602195207690003,SUMARNI,P,Kepala Keluarga,SD,Petani/Pekebun,1,500.000-1.000.000,Sederhana,Layak
+272,3602191505680002,MADSUKI,L,Kepala Keluarga,SD,Wiraswasta,2,>4.000.000,Layak,Tidak Layak
+273,3602191803490001,ROHADI,L,Kepala Keluarga,SD,Wiraswasta,2,>4.000.000,Layak,Tidak Layak
+274,3602192703670002,NARTA,L,Kepala Keluarga,SD,Wiraswasta,0,2.000.000-4.000.000,Sederhana,Tidak Layak
+275,3602190506800008,HADNI,L,Kepala Keluarga,SD,Wiraswasta,2,2.000.000-4.000.000,Sederhana,Tidak Layak
+276,3602191105680002,MADRAIS,L,Kepala Keluarga,SD,Wiraswasta,3,2.000.000-4.000.000,Sederhana,Tidak Layak
+277,3602191105670002,UNAR,L,Kepala Keluarga,SD,Wiraswasta,2,1.000.000-2.000.000,Sederhana,Layak
+278,3602192506590003,YAHYA,L,Kepala Keluarga,SD,Petani/Pekebun,2,<500.000,Kurang Layak,Layak
+279,3602191207730002,JUMHANA,L,Kepala Keluarga,SLTP/Sederajat,Wiraswasta,1,>4.000.000,Layak,Tidak Layak
+280,3602192103710005,MUKLIS WIBOWO,L,Kepala Keluarga,SLTA/Sederajat,Buruh Harian Lepas,1,500.000,Kurang Layak,Layak
+281,3602194204500001,SAINEM,P,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,0,500.000,Sederhana,Layak
+282,3602191406730001,JUMHANI,L,Kepala Keluarga,SD,Wiraswasta,2,1.000.000-2.000.000,Layak,Tidak Layak
+283,3602191203820002,SARTU,L,Kepala Keluarga,SD,Wiraswasta,1,1.000.000-2.000.000,Sederhana,Layak
+284,3602190709840006,SARHAYA,L,Kepala Keluarga,SD,Petani/Pekebun,3,500.000,Tidak Layak,Layak
+285,3602191105560001,JAHALIM,L,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,2,500.000-1.000.000,Kurang Layak,Layak
+286,3602191508840003,AJID,L,Kepala Keluarga,SD,Wiraswasta,1,>4.000.000,Layak,Tidak Layak
+287,3602191402940001,SUMARNO,L,Kepala Keluarga,SD,Wiraswasta,0,1.000.000-2.000.000,Sederhana,Tidak Layak
+288,3602190808700001,AGUS KOSWARA,L,Kepala Keluarga,SLTA/Sederajat,Tentara Nasional Indonesia,1,>4.000.000,Sederhana,Tidak Layak
+289,3602192111870007,DEKI IRAWAN,L,Kepala Keluarga,D4,GURU,1,>4.000.000,Sederhana,Tidak Layak
+290,3602195704440001,ROHANAH,P,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,0,500.000,Kurang Layak,Layak
+291,3602191704800001,SAHADI,L,Kepala Keluarga,SD,Wiraswasta,3,>4.000.000,Layak,Tidak Layak
+292,3602190108730004,DADANG,L,Kepala Keluarga,SLTA/Sederajat,Wiraswasta,1,>4.000.000,Sederhana,Tidak Layak
+293,3602192802980002,UBAEDILLAH KELANA,L,Kepala Keluarga,SLTA/Sederajat,Wiraswasta,2,2.000.000-4.000.000,Layak,Tidak Layak
+294,3602190505950007,REDI PRIANA,L,Kepala Keluarga,SLTA/Sederajat,Wiraswasta,3,>4.000.000,Sederhana,Tidak Layak
+295,3602190205900008,NENDI MULYANA,L,Kepala Keluarga,D4,Guru,2,>4.000.000,Layak,Tidak Layak
+296,3602191205640001,SAHRONI,L,Kepala Keluarga,SD,Wiraswasta,2,1.000.000-2.000.000,Kurang Layak,Tidak Layak
+297,3602190508420002,SARDJAJA,L,Kepala Keluarga,SLTA/Sederajat,Pensiunan,1,<500.000,Sederhana,Layak
+298,3602192006540001,MAMAT,L,Kepala Keluarga,SD,Wiraswasta,3,1.000.000-2.000.000,Sederhana,Layak
+299,3602194705610003,JUHRI,L,Kepala Keluarga,SLTA/Sederajat,Wiraswasta,1,>4.000.000,Sederhana,Tidak Layak
+300,3602192301020001,HENDRAWAN DEWAJI,L,Kepala Keluarga,SLTA/Sederajat,Petani/Pekebun,2,1.000.000-2.000.000,Layak,Tidak Layak
+301,3602190203950001,SAEPUDIN,L,Kepala Keluarga,SD,Petani/Pekebun,2,500.000,Sederhana,Layak
+302,3602194506010002,SITI NURHAYATI,P,Kepala Keluarga,SLTA/Sederajat,Pelajar/Mahasiswa,1,1.000.000-2.000.000,Layak,Tidak Layak
+303,3602191501840003,SUHERDI,L,Kepala Keluarga,SD,Petani/Pekebun,3,1.000.000-2.000.000,Sederhana,Layak
+304,3602194711640002,NARSIH,P,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,1,<500.000,Kurang Layak,Layak
+305,3602190510600002,NURHANI,L,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,2,<500.000,Kurang Layak,Layak
+306,3602194705660001,MUNAH,P,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,1,500.000-1.000.000,Sederhana,Layak
+307,3602190807620001,JARI,L,Kepala Keluarga,SD,Petani/Pekebun,1,500.000,Kurang Layak,Layak
+308,3602192012730002,IDIS DARYANA,L,Kepala Keluarga,SLTA/Sederajat,Wiraswasta,4,2.000.000-4.000.000,Sederhana,Tidak Layak
+309,3602195608920003,EEN,P,Kepala Keluarga,SD,Mengurus Rumah Tangga,3,>4.000.000,Layak,Tidak Layak
+310,3602194706600006,SAODAH,P,Kepala Keluarga,SD,Mengurus Rumah Tangga,1,2.000.000-4.000.000,Layak,Tidak Layak
+311,3602194502730001,HASANAH,P,Kepala Keluarga,SD,Mengurus Rumah Tangga,1,>4.000.000,Layak,Tidak Layak
+312,3602191507980003,UKON,L,Kepala Keluarga,SD,Wiraswasta,2,1.000.000-2.000.000,Kurang Layak,Tidak Layak
+313,3602190609510001,SAPRI,L,Kepala Keluarga,SD,Buruh Harian Lepas,2,500.000,Kurang Layak,Layak
+314,3602196912710001,SAOMI NURSIAWATI,P,Kepala Keluarga,SLTA/Sederajat,Mengurus Rumah Tangga,1,>4.000.000,Layak,Tidak Layak
+315,3602194711880002,ELA,P,Kepala Keluarga,SD,Petani/Pekebun,2,<500.000,Kurang Layak,Layak
+316,3602194107480008,ONAH,P,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,0,500.000,Kurang Layak,Layak
+317,3602191401860001,DEDE,L,Kepala Keluarga,SD,Petani/Pekebun,3,<500.000,Tidak Layak,Layak
+318,3602195508990002,KOIRIAH,P,Kepala Keluarga,SD,Mengurus Rumah Tangga,1,2.000.000-4.000.000,Sederhana,Tidak Layak
+319,3602194202540001,JUHENI,P,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,2,500.000,Kurang Layak,Layak
+320,3602191507590001,ENDANG,L,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,2,1.000.000-2.000.000,Sederhana,Layak
+321,3602191502780003,MUHAMAD SUKARNO,L,Kepala Keluarga,SD,Guru,4,>4.000.000,Layak,Tidak Layak
+322,3602191607420002,SAIMAN,L,Kepala Keluarga,SD,Petani/Pekebun,1,<500.000,Kurang Layak,Layak
+323,3602191011770002,ITO,L,Kepala Keluarga,SD,Petani/Pekebun,3,<500.000,Kurang Layak,Layak
+324,3602195005480001,KASTI,P,Kepala Keluarga,SD,Petani/Pekebun,0,<500.000,Sederhana,Layak
+325,3602191011540001,SUKRANI,L,Kepala Keluarga,SD,Petani/Pekebun,1,<500.000,Kurang Layak,Layak
+326,3602195503770003,SUHENAH,P,Kepala Keluarga,SD,Petani/Pekebun,1,500.000-1.000.000,Tidak Layak,Layak
+327,3602195106680001,SAHATI,P,Kepala Keluarga,SD,Mengurus Rumah Tangga,1,>4.000.000,Layak,Tidak Layak
+328,3602191107680004,USA,L,Kepala Keluarga,SD,Petani/Pekebun,3,<500.000,Tidak Layak,Layak
+329,3602190705970007,YANTO,L,Kepala Keluarga,Tidak Sekolah,Buruh Harian Lepas,2,1.000.000-2.000.000,Layak,Layak
+330,3602195803600001,SUKARSIH,P,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,0,500.000-1.000.000,Kurang Layak,Layak
+331,3602195412650001,SUKMANAH,P,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,0,1.000.000-2.000.000,Sederhana,Layak
+332,3602192412840003,YUDI MUNANDAR,L,Kepala Keluarga,SLTP/Sederajat,Wiraswasta,2,2.000.000-4.000.000,Sederhana,Tidak Layak
+333,3602190603990004,IPAN SUPANDI,L,Kepala Keluarga,SD,Wiraswasta,2,2.000.000-4.000.000,Kurang Layak,Tidak Layak
+334,3602194806530001,AWUT,P,Kepala Keluarga,Tidak Sekolah,Mengurus Rumah Tangga,0,2.000.000-4.000.000,Sederhana,Tidak Layak
+335,3602192703650001,JAHADI,L,Kepala Keluarga,SD,Belum/Tidak Bekerja,0,<500.000,Kurang Layak,Layak
+336,3602190801010005,SURYANI,L,Kepala Keluarga,SD,Petani/Pekebun,3,<500.000,Kurang Layak,Layak
+337,3602191603610001,ABU,L,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,1,1.000.000-2.000.000,Kurang Layak,Layak
+338,3602191108800005,KOSIM,L,Kepala Keluarga,SD,Petani/Pekebun,3,1.000.000-2.000.000,Kurang Layak,Layak
+339,3602191608520001,ANA,L,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,2,1.000.000-2.000.000,Layak,Layak
+340,3602190903500001,MUHADI,L,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,1,1.000.000-2.000.000,Kurang Layak,Layak
+341,3602190911780001,SUHENDRA,L,Kepala Keluarga,SD,Wiraswasta,2,500.000-1.000.000,Kurang Layak,Layak
+342,3602191105600003,RUSDI,L,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,1,500.000,Sederhana,Layak
+343,3602195603600003,KACI,P,Kepala Keluarga,Tidak Sekolah,Belum/Tidak Bekerja,1,2.000.000-4.000.000,Sederhana,Tidak Layak
+344,3602191209610001,MANAP,L,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,1,1.000.000-2.000.000,Kurang Layak,Layak
+345,3602191803520002,SALIM,L,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,2,1.000.000-2.000.000,Sederhana,Layak
+346,3602193009760001,AHMADI,L,Kepala Keluarga,SD,Wiraswasta,1,2.000.000-4.000.000,Sederhana,Tidak Layak
+347,3602191207580002,NURHASIM,L,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,1,500.000,Kurang Layak,Layak
+348,3602190207970001,JUMSA,L,Kepala Keluarga,SD,Belum/Tidak Bekerja,2,500.000,Sederhana,Layak
+349,3602191602600002,ARKI,L,Kepala Keluarga,SD,Petani/Pekebun,2,<500.000,Sederhana,Layak
+350,3602190312910001,GUNAWAN ,L,Kepala Keluarga,Tamat SLTP/Sederajat,Petani/Pekebun,2,500.000-1.000.000,Sederhana,Layak
+351,3602191806570002,ARMANI,L,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,1,<500.000,Tidak Layak,Layak
+352,3602195204920002,JUMHANA,L,Kepala Keluarga,SLTP/Sederajat,Buruh Harian Lepas,2,<500.000,Sederhana,Layak
+353,3602190406600002,SAKIB,L,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,1,500.000-1.000.000,Sederhana,Layak
+354,3602190202740004,SURAHMAN,L,Kepala Keluarga,SD,Petani/Pekebun,1,500.000-1.000.000,Sederhana,Layak
+355,3602191403650001,UNUS,L,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,1,500.000-1.000.000,Sederhana,Layak
+356,3602191605950003,UUS,L,Kepala Keluarga,SLTP/Sederajat,Buruh Harian Lepas,2,<500.000,Sederhana,Layak
+357,3602190304840008,PAHRUL HAMDI,L,Kepala Keluarga,SLTP/Sederajat,Pelajar/Mahasiswa,0,500.000-1.000.000,Kurang Layak,Tidak Layak
+358,3602190602750002,ADU,L,Kepala Keluarga,SD,Petani/Pekebun,1,500.000,Sederhana,Layak
+359,3602191204600002,ACANG,L,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,2,500.000,Kurang Layak,Layak
+360,3602191403540003,SARDI,L,Kepala Keluarga,SD,Petani/Pekebun,3,500.000-1.000.000,Kurang Layak,Layak
+361,3602190706540004,ANGKAT,L,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,0,500.000,Sederhana,Layak
+362,3602191504720009,ARSID,L,Kepala Keluarga,Tidak Sekolah,BURUH HARIAN LEPAS,1,500.000,Sederhana,Layak
+363,3602190302720001,SUAEDI,L,Kepala Keluarga,SLTP/Sederajat,Wiraswasta,3,1.000.000-2.000.000,Sederhana,Layak
+364,3602190505820003,ODANG,L,Kepala Keluarga,SD,Petani/Pekebun,3,500.000,Tidak Layak,Layak
+365,3602195206740001,UMAH,P,Kepala Keluarga,SD,Petani/Pekebun,1,500.000,Tidak Layak,Layak
+366,3602191605790001,AHIM,L,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,6,<500.000,Tidak Layak,Layak
+367,3602192409890002,SARDA,L,Kepala Keluarga,SD,Petani/Pekebun,0,500.000,Sederhana,Layak
+368,3602194705690005,SURNAH,P,Kepala Keluarga,SD,Petani/Pekebun,0,<500.000,Sederhana,Layak
+369,3602190503920003,ANDI NUR ADAM,L,Kepala Keluarga,SLTA/Sederajat,Petani/Pekebun,2,1.000.000-2.000.000,Sederhana,Layak
+370,3602192601760002,ISRON,L,Kepala Keluarga,SD,Petani/Pekebun,2,500.000,Sederhana,Layak
+371,3602194105670001,AMSIH,P,Kepala Keluarga,SD,Petani/Pekebun,0,<500.000,Sederhana,Layak
+372,3602191406500001,APANG SUARTA,L,Kepala Keluarga,SD,Petani/Pekebun,2,500.000,Kurang Layak,Layak
+373,3602191603470002,SARNAM,L,Kepala Keluarga,SD,Petani/Pekebun,1,500.000,Kurang Layak,Layak
+374,3602190602740003,SARHATA,L,Kepala Keluarga,SD,Petani/Pekebun,3,1.000.000-2.000.000,Kurang Layak,Layak
+375,3602190502490001,NASJA,L,Kepala Keluarga,SD,Petani/Pekebun,0,500.000-1.000.000,Kurang Layak,Layak
+376,3602190601700003,DULJAYA PERMADIJAYA,L,Kepala Keluarga,SLTA/Sederajat,Wiraswasta,2,>4.000.000,Layak,Tidak Layak
+377,3602190503690001,ANA,L,Kepala Keluarga,SD,Petani/Pekebun,2,1.000.000-2.000.000,Sederhana,Layak
+378,3602191107580003,SURTA,L,Kepala Keluarga,SD,Petani/Pekebun,1,1.000.000-2.000.000,Sederhana,Layak
+379,3602191503890001,SARNAN,L,Kepala Keluarga,SD,Petani/Pekebun,1,1.000.000-2.000.000,Sederhana,Layak
+380,3602191603760003,SAKRI,L,Kepala Keluarga,SD,Petani/Pekebun,3,500.000,Tidak Layak,Layak
+381,3602196003540001,RAISAH,P,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,0,500.000,Sederhana,Layak
+382,3602191112770003,WAWAN ,L,Kepala Keluarga,SD,Wiraswasta,2,2.000.000-4.000.000,Sederhana,Tidak Layak
+383,3602190503620001,SUDARMA,L,Kepala Keluarga,SD,Petani/Pekebun,1,500.000-1.000.000,Sederhana,Layak
+384,3602192008670002,MARHADI,L,Kepala Keluarga,SD,Petani/Pekebun,3,500.000-1.000.000,Kurang Layak,Layak
+385,3602192104740002,ARSA,L,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,2,500.000,Kurang Layak,Layak
+386,3602194503630001,SARMUNAH,P,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,0,500.000-1.000.000,Kurang Layak,Layak
+387,3602191506870005,SUKENDAR,L,Kepala Keluarga,SD,Perdagangan,2,500.000,Kurang Layak,Layak
+388,3602191901730002,AHMAD RIPAI,L,Kepala Keluarga,SD,Petani/Pekebun,3,500.000,Tidak Layak,Layak
+389,3602196103640001,MANONG,P,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,1,<500.000,Sederhana,Layak
+390,3602191003540001,ARYANI,L,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,1,<500.000,Kurang Layak,Layak
+391,3602190611920004,ADON,L,Kepala Keluarga,Tamat SLTA/Sederajat,Petani/Pekebun,2,1.000.000-2.000.000,Layak,Tidak Layak
+392,3602192305660001,ARSATA,L,Kepala Keluarga,SD,Petani/Pekebun,2,1.000.000-2.000.000,Sederhana,Layak
+393,3602190506890001,ASARI,L,Kepala Keluarga,SD,Petani/Pekebun,2,<500.000,Kurang Layak,Layak
+394,3602191601750005,MARIAN,L,Kepala Keluarga,SD,Wiraswasta,2,1.000.000-2.000.000,Layak,Tidak Layak
+395,3602191605770001,SUMANTA,L,Kepala Keluarga,SD,Petani/Pekebun,2,500.000,Tidak Layak,Layak
+396,3602194108470001,SUMARNI,P,Kepala Keluarga,SD,Mengurus Rumah Tangga,1,>4.000.000,Layak,Tidak Layak
+397,3602191603570001,RASIM,L,Kepala Keluarga,SD,Wiraswasta,3,2.000.000-4.000.000,Layak,Tidak Layak
+398,3602190901640001,SARUDIN,L,Kepala Keluarga,SD,Petani/Pekebun,2,500.000-1.000.000,Kurang Layak,Layak
+399,3602194803670001,ASMI,P,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,2,<500.000,Kurang Layak,Layak
+400,3602194601740002,ARUM,P,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,1,500.000-1.000.000,Kurang Layak,Layak
+401,3602191504860003,HARTO,L,Kepala Keluarga,SD,Perdagangan,3,<500.000,Kurang Layak,Layak
+402,3602190503690003,AGEH,L,Kepala Keluarga,SD,Wiraswasta,2,2.000.000-4.000.000,Kurang Layak,Tidak Layak
+403,3602192303790001,MIRGA,L,Kepala Keluarga,SD,Petani/Pekebun,2,1.000.000-2.000.000,Layak,Layak
+404,3602191603890004,ADANG SUHANDA,L,Kepala Keluarga,Tamat SLTA/Sederajat,Petani/Pekebun,2,500.000-1.000.000,Kurang Layak,Layak
+405,3602190706520001,HASAN,L,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,1,1.000.000-2.000.000,Layak,Layak
+406,3602192011870002,ASEP,L,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,3,<500.000,Kurang Layak,Layak
+407,3602191503760002,BADRU,L,Kepala Keluarga,SD,Petani/Pekebun,2,500.000-1.000.000,Kurang Layak,Layak
+408,3602196004740002,RUMHETI,P,Kepala Keluarga,SD,Mengurus Rumah Tangga,2,>4.000.000,Sederhana,Tidak Layak
+409,3602191602620001,MARSIM,L,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,2,<500.000,Kurang Layak,Layak
+410,3602190705940001,BILAL EKA RIANA,L,Kepala Keluarga,Tamat SLTP/Sederajat,Belum/Tidak Bekerja,1,1.000.000-2.000.000,Sederhana,Layak
+411,3602194906640005,NARISAH,P,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,2,500.000-1.000.000,Sederhana,Layak
+412,3602190204790001,ASKIN,L,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,3,500.000,Kurang Layak,Layak
+413,3602192202790005,ADIS,L,Kepala Keluarga,SLTP/Sederajat,Petani/Pekebun,2,500.000-1.000.000,Sederhana,Layak
+414,3602191104800005,AAN,L,Kepala Keluarga,SLTP/Sederajat,Wiraswasta,0,1.000.000-2.000.000,Sederhana,Tidak Layak
+415,3602195105700003,JUMSANAH,P,Kepala Keluarga,Tidak Sekolah,Mengurus Rumah Tangga,0,2.000.000-4.000.000,Layak,Tidak Layak
+416,3602190608740006,MUHAMMAD ANSOR AROJI,L,Kepala Keluarga,SLTA/Sederajat,Wiraswasta,2,1.000.000-2.000.000,Layak,Tidak Layak
+417,3602195702520007,AMSI,P,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,1,1.000.000-2.000.000,Sederhana,Layak
+418,3602191011650008,ROUP,L,Kepala Keluarga,SLTA/Sederajat,Belum/Tidak Bekerja,0,500.000,Kurang Layak,Layak
+419,3602195607990003,ELI KURNIAWATI,P,Kepala Keluarga,SLTA/Sederajat,Mengurus Rumah Tangga,0,2.000.000-4.000.000,Layak,Tidak Layak
+420,3602195805670001,RAMSAH,P,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,0,500.000-1.000.000,Kurang Layak,Layak
+421,3602190810910001,AJAT,L,Kepala Keluarga,SLTA/Sederajat,Petani/Pekebun,2,1.000.000-2.000.000,Kurang Layak,Tidak Layak
+422,3602194605400002,ARNATI,P,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,0,500.000,Tidak Layak,Layak
+423,3602192906700001,UKAR,L,Kepala Keluarga,SD,Petani/Pekebun,1,500.000,Kurang Layak,Layak
+424,3602192006650002,ADUT,L,Kepala Keluarga,SD,Wiraswasta,2,2.000.000-4.000.000,Layak,Tidak Layak
+425,3602191107860003,NURHASAN,L,Kepala Keluarga,SD,Petani/Pekebun,3,500.000,Tidak Layak,Layak
+426,3602190110900001,OHAR,L,Kepala Keluarga,SLTA/Sederajat,Petani/Pekebun,2,1.000.000-2.000.000,Sederhana,Layak
+427,3602194705610002,SARMUNAH,P,Kepala Keluarga,SD,Mengurus Rumah Tangga,0,>4.000.000,Layak,Tidak Layak
+428,3602191607690001,JOKO,L,Kepala Keluarga,SD,Petani/Pekebun,1,1.000.000-2.000.000,Sederhana,Layak
+429,3602190801920002,ROHMAN,L,Kepala Keluarga,SD,Petani/Pekebun,2,<500.000,Sederhana,Layak
+430,3602192203540001,SAPUDIN,L,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,0,1.000.000-2.000.000,Kurang Layak,Tidak Layak
+431,3602191005620001,SARDAWI,L,Kepala Keluarga,SD,Petani/Pekebun,2,500.000,Sederhana,Layak
+432,3602190901740009,DENDI,L,Kepala Keluarga,SLTP/Sederajat,Wiraswasta,2,2.000.000-4.000.000,Layak,Tidak Layak
+433,3602190504510002,SUADI,L,Kepala Keluarga,SD,Petani/Pekebun,3,500.000-1.000.000,Kurang Layak,Layak
+434,3602191212760002,ATOK RAHMAT,L,Kepala Keluarga,SD,Petani/Pekebun,3,1.000.000-2.000.000,Kurang Layak,Layak
+435,3602190603770001,TARMAN,L,Kepala Keluarga,SD,Petani/Pekebun,3,500.000-1.000.000,Sederhana,Layak
+436,3602191107770002,JAYA,L,Kepala Keluarga,SD,Petani/Pekebun,3,<500.000,Kurang Layak,Layak
+437,3602190506790005,MUHAMAD SARHAPI,L,Kepala Keluarga,SD,Petani/Pekebun,4,1.000.000-2.000.000,Kurang Layak,Layak
+438,3602191605640001,SARHANI,L,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,2,500.000-1.000.000,Sederhana,Layak
+439,3602191607530001,SARHADI,L,Kepala Keluarga,SD,Petani/Pekebun,4,500.000,Tidak Layak,Layak
+440,3602191605730001,SUMEDI,L,Kepala Keluarga,SD,Wiraswasta,2,1.000.000-2.000.000,Sederhana,Layak
+441,3602191005620002,MARTA,L,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,3,1.000.000-2.000.000,Sederhana,Layak
+442,3602190311830001,ARSID,L,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,1,1.000.000-2.000.000,Sederhana,Layak
+443,3602191206690002,JAMALUDIN,L,Kepala Keluarga,SD,Wiraswasta,5,>4.000.000,Layak,Tidak Layak
+444,3602192105640001,SARIPUDIN,L,Kepala Keluarga,SD,Wiraswasta,2,1.000.000-2.000.000,Layak,Tidak Layak
+445,3602192601790003,YADI,L,Kepala Keluarga,SD,Petani/Pekebun,1,1.000.000-2.000.000,Sederhana,Layak
+446,3602192102460001,HAMDAN,L,Kepala Keluarga,SD,Petani/Pekebun,1,500.000,Sederhana,Layak
+447,3602190706590002,ARDI,L,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,1,1.000.000-2.000.000,Sederhana,Layak
+448,3602190605570001,KARDAN,L,Kepala Keluarga,SD,Petani/Pekebun,1,500.000-1.000.000,Kurang Layak,Layak
+449,3602190705740001,JAJAT,L,Kepala Keluarga,SD,Petani/Pekebun,1,500.000,Kurang Layak,Layak
+450,3602190112900002,SUKRI,L,Kepala Keluarga,SD,Petani/Pekebun,4,<500.000,Tidak Layak,Layak
+451,3602191106580001,SUADI,L,Kepala Keluarga,SD,Petani/Pekebun,2,<500.000,Sederhana,Layak
+452,3602191504740002,AEP,L,Kepala Keluarga,SD,Wiraswasta,2,2.000.000-4.000.000,Kurang Layak,Tidak Layak
+453,3602193007900001,MUHIDIN,L,Kepala Keluarga,SD,Petani/Pekebun,3,500.000,Kurang Layak,Layak
+454,3602190703640002,UMAR,L,Kepala Keluarga,SD,Petani/Pekebun,2,500.000,Tidak Layak,Layak
+455,3602190703590003,NARHATA,L,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,2,<500.000,Sederhana,Layak
+456,3602191803720001,M. HUDRI,L,Kepala Keluarga,SD,Petani/Pekebun,2,500.000-1.000.000,Kurang Layak,Layak
+457,3602191206620001,UKAT,L,Kepala Keluarga,SD,Petani/Pekebun,1,<500.000,Sederhana,Layak
+458,3602194203800004,RUMDANA,L,Kepala Keluarga,SLTP/Sederajat,Petani/Pekebun,2,<500.000,Sederhana,Layak
+459,3602190702900006,MAMAN,L,Kepala Keluarga,SLTP/Sederajat,Petani/Pekebun,2,<500.000,Sederhana,Layak
+460,3602191703680002,SUBRI,L,Kepala Keluarga,SD,Petani/Pekebun,2,<500.000,Kurang Layak,Layak
+461,3602192310780003,SUNARYA,L,Kepala Keluarga,Tamat SLTP/Sederajat,Petani/Pekebun,3,<500.000,Tidak Layak,Layak
+462,3602191607540002,KARTA,L,Kepala Keluarga,SD,Petani/Pekebun,0,1.000.000-2.000.000,Sederhana,Layak
+463,3602191304740001,UNENG,L,Kepala Keluarga,SD,Wiraswasta,3,1.000.000-2.000.000,Kurang Layak,Layak
+464,3602192704410001,ALHADI,L,Kepala Keluarga,SD,Petani/Pekebun,2,<500.000,Sederhana,Layak
+465,3602191003920003,TISNA,L,Kepala Keluarga,SLTP/Sederajat,Petani/Pekebun,2,500.000-1.000.000,Kurang Layak,Layak
+466,3602191005950002,ASEP SOPIYAN,L,Kepala Keluarga,SLTP/Sederajat,Wiraswasta,3,2.000.000-4.000.000,Sederhana,Tidak Layak
+467,3602192706980002,ASEP SUKMADI,L,Kepala Keluarga,SLTA/Sederajat,Wiraswasta,1,1.000.000-2.000.000,Sederhana,Tidak Layak
+468,3602195711630001,KECOH,P,Kepala Keluarga,Tidak Sekolah,Mengurus Rumah Tangga,0,2.000.000-4.000.000,Layak,Tidak Layak
+469,3602192312940003,HUDORI ISKANDAR,L,Kepala Keluarga,SLTA/Sederajat,Wiraswasta,2,2.000.000-4.000.000,Sederhana,Tidak Layak
+470,3602190207790006,JUMHARI,L,Kepala Keluarga,SD,Wiraswasta,3,>4.000.000,Layak,Tidak Layak
+471,3602192206810002,ROHMAN SARI PUTRA,L,Kepala Keluarga,SLTP/Sederajat,Wiraswasta,3,>4.000.000,Layak,Tidak Layak
+472,3602190709800002,ROHADI,L,Kepala Keluarga,SD,Wiraswasta,2,1.000.000-2.000.000,Kurang Layak,Tidak Layak
+473,3602190804910004,KODIR,L,Kepala Keluarga,SD,Wiraswasta,2,2.000.000-4.000.000,Sederhana,Tidak Layak
+474,3602191604540001,SANURA,L,Kepala Keluarga,SD,Wiraswasta,0,2.000.000-4.000.000,Sederhana,Tidak Layak
+475,3602191204980006,RUDINI ABDUL HAKIM,L,Kepala Keluarga,SLTP/Sederajat,Pelajar/Mahasiswa,2,<500.000,Kurang Layak,Tidak Layak
+476,3602191609580003,ACE ATMAWIJAYA,L,Kepala Keluarga,Tidak Sekolah,Wiraswasta,1,2.000.000-4.000.000,Sederhana,Tidak Layak
+477,3602190804880002,UDIN SAEPUDIN,L,Kepala Keluarga,D4,Guru,3,>4.000.000,Layak,Tidak Layak
+478,3602190703690003,SUKRO,L,Kepala Keluarga,SD,Wiraswasta,0,1.000.000-2.000.000,Layak,Tidak Layak
+479,3602190910540004,ASMADI,L,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,0,1.000.000-2.000.000,Kurang Layak,Tidak Layak
+480,3602191009890005,ENJANG JAENUDIN,L,Kepala Keluarga,D4,Karyawan Swasta,3,>4.000.000,Layak,Tidak Layak
+481,3602191810800004,SARTO ARIFIN,L,Kepala Keluarga,SLTP/Sederajat,Wiraswasta,1,>4.000.000,Layak,Tidak Layak
+482,3602191806770001,ENDAN SARDANI,L,Kepala Keluarga,SD,Wiraswasta,3,2.000.000-4.000.000,Layak,Tidak Layak
+483,3602195904990001,ADWIAH,P,Kepala Keluarga,SLTP/Sederajat,Mengurus Rumah Tangga,1,2.000.000-4.000.000,Sederhana,Tidak Layak
+484,3602191506790002,NONO,L,Kepala Keluarga,SD,Wiraswasta,2,1.000.000-2.000.000,Layak,Tidak Layak
+485,3602192307560002,NARSIM,L,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,0,1.000.000-2.000.000,Kurang Layak,Tidak Layak
+486,3602194309600002,RUMSI,P,Kepala Keluarga,Tidak Sekolah,Mengurus Rumah Tangga,0,2.000.000-4.000.000,Sederhana,Tidak Layak
+487,3602192308680003,ADISAN ADIWIJAYA,L,Kepala Keluarga,SLTA/Sederajat,Wiraswasta,1,1.000.000-2.000.000,Sederhana,Tidak Layak
+488,3602197004600001,MARINAH,P,Kepala Keluarga,Tidak Sekolah,Mengurus Rumah Tangga,0,1.000.000-2.000.000,Sederhana,Tidak Layak
+489,3602192411840003,ASEP SUPRIADI,L,Kepala Keluarga,SLTA/Sederajat,Wiraswasta,4,>4.000.000,Layak,Tidak Layak
+490,3602190604870001,MUMUH,L,Kepala Keluarga,SLTP/Sederajat,wiraswasta,2,1.000.000-2.000.000,Layak,Tidak Layak
+491,3602191603660001,NUHADI,L,Kepala Keluarga,SD,Wiraswasta,2,>4.000.000,Layak,Tidak Layak
+492,3602192403820007,SUPRADI,L,Kepala Keluarga,SD,Petani/Pekebun,2,2.000.000-4.000.000,Layak,Tidak Layak
+493,3602191803740002,UDING,L,Kepala Keluarga,SD,Wiraswasta,2,1.000.000-2.000.000,Layak,Tidak Layak
+494,3602196411730002,KOMNAH,P,Kepala Keluarga,SD,Mengurus Rumah Tangga,1,2.000.000-4.000.000,Sederhana,Tidak Layak
+495,3602190507860008,AKBAR SEPTIAN,L,Kepala Keluarga,SLTA/Sederajat,Pelajar/Mahasiswa,2,500.000,Kurang Layak,Tidak Layak
+496,3602190107890018,MUDANI,L,Kepala Keluarga,D4,Guru,2,>4.000.000,Layak,Tidak Layak
+497,3602194206671001,MURNATI,P,Kepala Keluarga,Tidak Sekolah,Mengurus Rumah Tangga,0,1.000.000-2.000.000,Sederhana,Tidak Layak
+498,3602191907830001,UJANG SOLIHIN,L,Kepala Keluarga,SD,Wiraswasta,3,2.000.000-4.000.000,Sederhana,Tidak Layak
+499,3602191603790010,ADE,L,Kepala Keluarga,SD,Wiraswasta,0,2.000.000-4.000.000,Layak,Tidak Layak
+500,3602196405560001,NURMALASARI,P,Kepala Keluarga,D3,Belum/Tidak Bekerja,0,500.000-1.000.000,Kurang Layak,Tidak Layak
+501,3602191706800002,ABDUL AZIZ,L,Kepala Keluarga,SLTP/Sederajat,Wiraswasta,3,>4.000.000,Sederhana,Tidak Layak
+502,3602192204560003,NURJEN,L,Kepala Keluarga,SD,Wiraswasta,3,2.000.000-4.000.000,Sederhana,Tidak Layak
+503,3602190505660004,UJAT BIN AHDI,L,Kepala Keluarga,SD,Perdagangan,3,2.000.000-4.000.000,Layak,Tidak Layak
+504,3602192806900003,ASEP SUPARMAN,L,Kepala Keluarga,SLTP/Sederajat,Wiraswasta,5,2.000.000-4.000.000,Kurang Layak,Tidak Layak
+505,3602191703670002,JUMAN,L,Kepala Keluarga,SD,Wiraswasta,1,2.000.000-4.000.000,Sederhana,Tidak Layak
+506,3602191501870004,SUKMADI WIJAYA,L,Kepala Keluarga,D4,Karyawan Honorer,3,2.000.000-4.000.000,Layak,Tidak Layak
+507,3602192604840001,DEDI SUPARDI,L,Kepala Keluarga,SLTP/Sederajat,Wiraswasta,3,1.000.000-2.000.000,Kurang Layak,Tidak Layak
+508,3602192009770006,SUPRIYADI,L,Kepala Keluarga,SLTA/Sederajat,Wiraswasta,4,2.000.000-4.000.000,Kurang Layak,Tidak Layak
+509,3602192402810001,NAHRUDIN,L,Kepala Keluarga,SD,Wiraswasta,3,2.000.000-4.000.000,Layak,Tidak Layak
+510,3602191902840002,SUNA,L,Kepala Keluarga,SLTP/Sederajat,Wiraswasta,2,1.000.000-2.000.000,Sederhana,Tidak Layak
+511,3602191803760001,SAHEDI,L,Kepala Keluarga,SD,Wiraswasta,3,2.000.000-4.000.000,Sederhana,Tidak Layak
+512,3602192601770002,IDUS,L,Kepala Keluarga,Tidak Sekolah,Wiraswasta,4,2.000.000-4.000.000,Kurang Layak,Tidak Layak
+513,3602191703840001,NURSAMAD,L,Kepala Keluarga,SD,Wiraswasta,3,>4.000.000,Layak,Tidak Layak
+514,3602191102700001,SAMID,L,Kepala Keluarga,SD,Wiraswasta,2,>4.000.000,Sederhana,Tidak Layak
+515,3602192002000001,HASANUDIN,L,Kepala Keluarga,D4,GURU,2,>4.000.000,Sederhana,Tidak Layak
+516,3602196305690001,SUANAH,P,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,0,1.000.000-2.000.000,Kurang Layak,Tidak Layak
+517,3602196001450001,KARTI,P,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,0,1.000.000-2.000.000,Kurang Layak,Tidak Layak
+518,3602192005850004,M. WAWAN SOPWANI,L,Kepala Keluarga,SLTP/Sederajat,Wiraswasta,3,1.000.000-2.000.000,Kurang Layak,Tidak Layak
+519,3602195702690002,SARI,P,Kepala Keluarga,Tidak Sekolah,Belum/Tidak Bekerja,0,2.000.000-4.000.000,Sederhana,Tidak Layak
+520,3602190701800009,MOHAMAD NURSEHA,L,Kepala Keluarga,SLTA/Sederajat,Wiraswasta,2,>4.000.000,Layak,Tidak Layak
+521,3602190909930002,DEDE MULYA,L,Kepala Keluarga,SLTA/Sederajat,Wiraswasta,1,>4.000.000,Layak,Tidak Layak
+522,3602191603820005,ERIK,L,Kepala Keluarga,SD,Wiraswasta,3,2.000.000-4.000.000,Kurang Layak,Tidak Layak
+523,3602194205540002,NARWATI,P,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,0,1.000.000-2.000.000,Layak,Tidak Layak
+524,3602190712910002,SOPYAN SIDIK,L,Kepala Keluarga,SD,Pedagang,2,1.000.000-2.000.000,Kurang Layak,Tidak Layak
+525,3602191511640002,EDI ROHAEDI,L,Kepala Keluarga,SD,Wiraswasta,1,2.000.000-4.000.000,Layak,Tidak Layak
+526,3602191204760002,ARHADI,L,Kepala Keluarga,SD,Wiraswasta,1,2.000.000-4.000.000,Sederhana,Tidak Layak
+527,3602192003800003,SYAMSUL BACHRI,L,Kepala Keluarga,SLTP/Sederajat,Wiraswasta,3,>4.000.000,Layak,Tidak Layak
+528,3602191705740001,SUHI,L,Kepala Keluarga,SD,Wiraswasta,3,2.000.000-4.000.000,Layak,Tidak Layak
+529,3602192306750001,SUARDI,L,Kepala Keluarga,SLTP/Sederajat,Wiraswasta,1,>4.000.000,Layak,Tidak Layak
+530,3602191808810003,HASAN,L,Kepala Keluarga,SLTP/Sederajat,Wiraswasta,2,>4.000.000,Sederhana,Tidak Layak
+531,3602191801640001,SUMA,L,Kepala Keluarga,SD,Wiraswasta,1,>4.000.000,Layak,Tidak Layak
+532,3602190801650004,ANGGI,L,Kepala Keluarga,SLTA/Sederajat,Wiraswasta,3,>4.000.000,Layak,Tidak Layak
+533,3602190404580005,NANA HUSNA PERMANA,L,Kepala Keluarga,SLTA/Sederajat,Wiraswasta,4,>4.000.000,Layak,Tidak Layak
+534,3602191905920003,HOLIL,L,Kepala Keluarga,SD,Wiraswasta,3,>4.000.000,Layak,Tidak Layak
+535,3602195506860007,SARINAH,P,Kepala Keluarga,SD,Mengurus Rumah Tangga,0,2.000.000-4.000.000,Layak,Tidak Layak
+536,3602190501700005,OMOK,L,Kepala Keluarga,SD,Wiraswasta,2,1.000.000-2.000.000,Kurang Layak,Tidak Layak
+537,3602192407650001,IKO,L,Kepala Keluarga,SD,Wiraswasta,2,2.000.000-4.000.000,Layak,Tidak Layak
+538,3602195802590002,RATNASIH,P,Kepala Keluarga,Tidak Sekolah,Mengurus Rumah Tangga,2,2.000.000-4.000.000,Layak,Tidak Layak
+539,3602195507970001,LILIS,P,Kepala Keluarga,SLTP/Sederajat,Mengurus Rumah Tangga,1,>4.000.000,Layak,Tidak Layak
+540,3602194304520001,ANAH,P,Kepala Keluarga,Tidak Sekolah,Petani/Pekebun,0,1.000.000-2.000.000,Layak,Tidak Layak
+541,3602192005930002,MUMUH MUHTAR SAZALI,L,Kepala Keluarga,SLTP/Sederajat,Wiraswasta,2,2.000.000-4.000.000,Layak,Tidak Layak
+542,3602195803710002,ICIH,P,Kepala Keluarga,SD,Mengurus Rumah Tangga,2,2.000.000-4.000.000,Sederhana,Tidak Layak
+543,3602192107890002,SAMINAN,L,Kepala Keluarga,SLTA/Sederajat,Karyawan Honorer,2,2.000.000-4.000.000,Sederhana,Tidak Layak
+544,3602191006720002,AMINUDIN,L,Kepala Keluarga,SD,Wiraswasta,2,2.000.000-4.000.000,Layak,Tidak Layak
+545,3602191507780002,APIPUDIN,L,Kepala Keluarga,SD,Wiraswasta,3,>4.000.000,Layak,Tidak Layak
+546,3602191807610001,BOHIM,L,Kepala Keluarga,SD,Wiraswasta,2,2.000.000-4.000.000,Sederhana,Tidak Layak
+547,3602192701740001,RIDWAN,L,Kepala Keluarga,SLTP/Sederajat,Wiraswasta,3,>4.000.000,Layak,Tidak Layak
+548,3602192705990001,UDIN,L,Kepala Keluarga,SD,Wiraswasta,1,>4.000.000,Layak,Tidak Layak
+549,3602194203020004,AAM,P,Kepala Keluarga,Tidak Sekolah,Mengurus Rumah Tangga,1,>4.000.000,Layak,Tidak Layak
+550,3602190401590002,SUARJA,L,Kepala Keluarga,Tidak Sekolah,Wiraswasta,1,2.000.000-4.000.000,Layak,Tidak Layak
+551,3602196604790002,SUNENGSIH,P,Kepala Keluarga,SD,Mengurus Rumah Tangga,1,2.000.000-4.000.000,Layak,Tidak Layak
+552,3602192103910003,BADRI,L,Kepala Keluarga,SLTA/Sederajat,Wiraswasta,2,1.000.000-2.000.000,Sederhana,Tidak Layak
+553,3602195705320001,EKOM,P,Kepala Keluarga,Tidak Sekolah,Mengurus Rumah Tangga,0,>4.000.000,Layak,Tidak Layak
+554,3602191203040001,ROHMATULLAH,L,Kepala Keluarga,SLTP/Sederajat,Wiraswasta,1,>4.000.000,Layak,Tidak Layak
+555,3602190512730003,JAJANG KURNIAWAN,L,Kepala Keluarga,SLTA/Sederajat,Wiraswasta,3,2.000.000-4.000.000,Sederhana,Tidak Layak
+556,3602190804830002,ANONG,L,Kepala Keluarga,SD,Petani/Pekebun,0,1.000.000-2.000.000,Layak,Tidak Layak
+557,3602191812820001,SURYADI ,L,Kepala Keluarga,SD,wiraswasta,0,2.000.000-4.000.000,Sederhana,Tidak Layak
+558,3602195401760002,IBAH,P,Kepala Keluarga,SD,Mengurus Rumah Tangga,1,2.000.000-4.000.000,Layak,Tidak Layak
+559,3602191707850003,MUHAMAD DANIL,L,Kepala Keluarga,SD,Wiraswasta,3,>4.000.000,Layak,Tidak Layak
+560,3602190502810002,AGUS SUPANDI,L,Kepala Keluarga,D4,Wiraswasta,3,2.000.000-4.000.000,Layak,Tidak Layak
+561,3602190107830005,ATO SUGIANA MUDA,L,Kepala Keluarga,SD,Wiraswasta,3,2.000.000-4.000.000,Layak,Tidak Layak
+562,3602191402920001,JALAL,L,Kepala Keluarga,SD,Wiraswasta,3,2.000.000-4.000.000,Layak,Tidak Layak
+563,3602191508510003,M. SAHRI ,L,Kepala Keluarga,SD,Wiraswasta,3,>4.000.000,Layak,Tidak Layak
+564,3602191204900001,SANA,L,Kepala Keluarga,SD,Wiraswasta,3,>4.000.000,Layak,Tidak Layak
+565,3602195702710001,SUANAH,P,Kepala Keluarga,SD,Mengurus Rumah Tangga,1,2.000.000-4.000.000,Layak,Tidak Layak
+566,3602190204590002,ASIM,L,Kepala Keluarga,SD,Wiraswasta,4,>4.000.000,Layak,Tidak Layak
+567,3602192304630001,ATMAJA,L,Kepala Keluarga,SD,Petani/Pekebun,0,1.000.000-2.000.000,Layak,Tidak Layak
+568,3602191502780001,ASIM,L,Kepala Keluarga,SD,Wiraswasta,2,2.000.000-4.000.000,Layak,Tidak Layak
+569,3602191801740002,ANWAR,L,Kepala Keluarga,SLTP/Sederajat,Karyawan Swasta,2,2.000.000-4.000.000,Sederhana,Tidak Layak
+570,3602190603640002,HALIMI,L,Kepala Keluarga,SD,Wiraswasta,2,>4.000.000,Layak,Tidak Layak
+571,3602192601720002,MA'MUN,L,Kepala Keluarga,SD,Wiraswasta,3,2.000.000-4.000.000,Layak,Tidak Layak
+572,3602195302980002,NURJANAH,P,Kepala Keluarga,Tidak Sekolah,Mengurus Rumah Tangga,0,2.000.000-4.000.000,Layak,Tidak Layak
+573,3602191410650004,PARIJAL BASRI,L,Kepala Keluarga,SLTA/Sederajat,Wiraswasta,1,1.000.000-2.000.000,Sederhana,Tidak Layak
+574,3602191701890001,NURDIN,L,Kepala Keluarga,SLTP/Sederajat,Wiraswasta,2,2.000.000-4.000.000,Sederhana,Tidak Layak
+575,3602191003980004,SURHAEDI,L,Kepala Keluarga,SLTP/Sederajat,Wiraswasta,2,2.000.000-4.000.000,Sederhana,Tidak Layak
+576,3602192804720001,A. SUPRIATNA,L,Kepala Keluarga,SLTP/Sederajat,Wiraswasta,3,2.000.000-4.000.000,Layak,Tidak Layak
+577,3602192504630003,MAHMUD,L,Kepala Keluarga,SD,Wiraswasta,2,1.000.000-2.000.000,Kurang Layak,Tidak Layak
+578,3602192101590001,SANGSANG,L,Kepala Keluarga,SD,Wiraswasta,2,>4.000.000,Layak,Tidak Layak
+579,3602192503750002,AMIR,L,Kepala Keluarga,SD,Wiraswasta,4,2.000.000-4.000.000,Kurang Layak,Tidak Layak
+580,3602195701510001,MARYANAH,P,Kepala Keluarga,Tidak Sekolah,Mengurus Rumah Tangga,0,2.000.000-4.000.000,Layak,Tidak Layak
+581,3602195807590001,MURYANAH ASTI,P,Kepala Keluarga,SD,Mengurus Rumah Tangga,1,2.000.000-4.000.000,Layak,Tidak Layak
+582,3602191601750004,JARTA,L,Kepala Keluarga,SD,Wiraswasta,3,>4.000.000,Layak,Tidak Layak
+583,3602190107830024,YANTO,L,Kepala Keluarga,SD,Wiraswasta,3,2.000.000-4.000.000,Layak,Tidak Layak
+584,3602190706880003,SAHUDIN,L,Kepala Keluarga,SD,Wiraswasta,0,2.000.000-4.000.000,Kurang Layak,Tidak Layak
+585,3602196107920003,YATI,P,Kepala Keluarga,SD,Mengurus Rumah Tangga,1,>4.000.000,Layak,Tidak Layak
+586,3602191702900001,SUPRIADI,L,Kepala Keluarga,SLTP/Sederajat,Wiraswasta,3,2.000.000-4.000.000,Layak,Tidak Layak
+587,3602191307660001,SUGANDI,L,Kepala Keluarga,SD,Wiraswasta,1,2.000.000-4.000.000,Sederhana,Tidak Layak
+588,3602190605820002,MADSUKI,L,Kepala Keluarga,Tidak Sekolah,Wiraswasta,0,1.000.000-2.000.000,Layak,Tidak Layak
+589,3602194205720001,EEN,P,Kepala Keluarga,SD,Mengurus Rumah Tangga,1,2.000.000-4.000.000,Layak,Tidak Layak
+590,3602191603700004,JAYA,L,Kepala Keluarga,SD,Wiraswasta,3,>4.000.000,Sederhana,Tidak Layak
+591,3602192602860006,DULPAI,L,Kepala Keluarga,SD,Wiraswasta,3,2.000.000-4.000.000,Sederhana,Tidak Layak
+592,3602191201910003,JEJEN,L,Kepala Keluarga,SLTP/Sederajat,Petani/Pekebun,0,500.000-1.000.000,Kurang Layak,Tidak Layak
+593,3602191606820001,JUANDI,L,Kepala Keluarga,SLTP/Sederajat,Wiraswasta,3,2.000.000-4.000.000,Kurang Layak,Tidak Layak
+594,3602193006590001,NURHASAN,L,Kepala Keluarga,SD,Wiraswasta,2,>4.000.000,Layak,Tidak Layak
+595,3602192703690001,SADIK,L,Kepala Keluarga,SD,Wiraswasta,2,2.000.000-4.000.000,Sederhana,Tidak Layak
+596,3602191602900001,SUKMADI,L,Kepala Keluarga,SD,Wiraswasta,2,>4.000.000,Layak,Tidak Layak
+597,3602191907770002,SETIAWAN,L,Kepala Keluarga,SLTA/Sederajat,Wiraswasta,3,1.000.000-2.000.000,Kurang Layak,Tidak Layak
+598,3602190503950003,MUNAWAR,L,Kepala Keluarga,SLTP/Sederajat,Wiraswasta,2,2.000.000-4.000.000,Layak,Tidak Layak
