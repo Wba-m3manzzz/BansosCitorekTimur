@@ -17,5 +17,5 @@ COPY . .
 # Pindah direktori kerja ke dalam folder backend
 WORKDIR /app/backend
 
-# Jalankan main:app langsung karena posisi terminal sudah di dalam folder backend
-CMD ["sh", "-c", "uvicorn main:app --host 0.0.0.0 --port ${PORT:-8000}"]
+# Jalankan app.main:app karena file main.py ada di dalam folder app/
+CMD ["sh", "-c", "uvicorn app.main:app --host 0.0.0.0 --port ${PORT:-8000}"]
