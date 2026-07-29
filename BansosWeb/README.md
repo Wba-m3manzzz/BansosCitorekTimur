@@ -4,7 +4,7 @@ Frontend React untuk sistem klasifikasi penerima bantuan sosial.
 
 ## Menjalankan web
 
-Pastikan API KNN sudah berjalan di `http://127.0.0.1:8000`.
+Pastikan API backend sudah berjalan atau terhubung ke `https://bansoscitorektimur-production.up.railway.app`.
 
 ```powershell
 cd "C:\Users\Muhamad Muslih\Desktop\Skripsi Mansur\BansosWeb"
@@ -15,7 +15,7 @@ npm run dev
 Jika API berjalan di alamat lain, buat file `.env` dari `.env.example`, lalu ubah:
 
 ```text
-VITE_API_URL=http://127.0.0.1:8000
+VITE_API_URL=https://bansoscitorektimur-production.up.railway.app
 ```
 
 ## Halaman yang memakai API
